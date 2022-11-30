@@ -14,12 +14,6 @@
     "default_title": "Better Person"
   },
   "permissions": [
-    "https://www.pornhub.com/*",
-    "https://www.onlyfans.com/*",
-    "https://www.redtube.com/*",
-    "https://www.xvideos.com/*",
-    "https://www.xhamster.com/*",
-    "https://www.youporn.com/*",
-    "https://www.xnxx.com/*"
+    "https://www.youtube.com/*",
   ]
 }
