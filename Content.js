@@ -37,40 +37,9 @@ const generateSTYLING= () => {
 }
 
 switch (window.location.hostname) {
-  case 'www.pornhub.com':
+  case 'www.youtube.com':
     document.head.innerHTML = generateSTYLING()
-    document.body.innerHTML = generateHTML('pornhub');
+    document.body.innerHTML = generateHTML('youtube');
   break;
-
-  case 'www.onlyfans.com':
-    document.head.innerHTML = generateSTYLING()
-    document.body.innerHTML = generateHTML('onlyfans');
-    break;
-
-  case 'www.redtube.com':
-    document.head.innerHTML = generateSTYLING()
-    document.body.innerHTML = generateHTML('redtube');
-    break;
-
-  case 'www.xvideos.com':
-    document.head.innerHTML = generateSTYLING()
-    document.body.innerHTML = generateHTML('xvideos');
-    break;
-
-  case 'www.xhamster.com':
-    document.head.innerHTML = generateSTYLING()
-    document.body.innerHTML = generateHTML('xhamster');
-
-    break;
-
-  case 'www.youporn.com':
-    document.head.innerHTML = generateSTYLING()
-    document.body.innerHTML = generateHTML('youporn');
-    break;
-
-  case 'www.xnxx.com':
-    document.head.innerHTML = generateSTYLING()
-    document.body.innerHTML = generateHTML('xnxx');
-    break;
 
 }
