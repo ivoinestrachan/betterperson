@@ -1,4 +1,8 @@
 # Productivity Extension 
+Are you always procrastinating?
+Yeah me too, procrastinating often leads to an increase in stress and anxiety, as well as the likelihood of making errors when rushing toward the completion of a project. In worst-case scenarios, putting things off until the last minute can cause you to miss an important deadline.
+We do this a lot as programmers so I decided to create something to help us to stop procrastinating and be more productive.
+
 
 
 ![image](https://user-images.githubusercontent.com/70272280/204818505-8c910b89-a96d-491d-8554-a8a33665e648.png)
