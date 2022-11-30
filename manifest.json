@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Better Person",
+  "version": "1.0",
+  "description": "Become a better person",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["Content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_popup": "Popup.html",
+    "default_title": "Better Person"
+  },
+  "permissions": [
+    "https://www.pornhub.com/*",
+    "https://www.onlyfans.com/*",
+    "https://www.redtube.com/*",
+    "https://www.xvideos.com/*",
+    "https://www.xhamster.com/*",
+    "https://www.youporn.com/*",
+    "https://www.xnxx.com/*"
+  ]
+}
