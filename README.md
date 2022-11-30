@@ -28,3 +28,5 @@
 - Then look for the folder should you chose
 
 ![image](https://user-images.githubusercontent.com/70272280/204891953-c0d02d15-7972-4e97-8bd3-01107500e282.png)
+
+After you have done all of these steps you should be able to click the plugin icon to find the extension and the sites you have blocked of you shouldnt be able to go to.
