@@ -12,6 +12,7 @@ We do this a lot as programmers so I decided to create something to help us to s
 ## Installation & Setup
 
 ### 1. How to Install on Chrome
+- Make sure to change the name of your folder when you clone the repo
 - Click the **︙** dots on the top right
 - Click More Tools
 - Click Extensions
